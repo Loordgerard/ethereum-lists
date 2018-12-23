@@ -10,7 +10,7 @@
 	" width " : " 28px " , " height " : " 28px " , " ipfs_hash " : " " },
   " support " : { " email " : " info@mundicoin.net " , " url " : " " },
   " social " : {
-    " blog " : " https://www.mundovi.com/blog " ,
+    " blog " : " https://www.mundicoin.net/blog " ,
     " chat " : " " ,
     " facebook " : " https://www.facebook.com/MundiCoin " ,
     " forum " : " " ,
@@ -18,10 +18,10 @@
     " gitter " : " " ,
     " instagram " : " " ,
     " linkedin " : " https://www.linkedin.com/company/mundicoin " ,
-    " reddit " : "  " ,
-    " slack " : " " ,
+    " reddit " : " https://www.reddit.com/user/MundiCoin " ,
+    " slack " : " https://mundicoin.slack.com " ,
     " telegram " : "  https://t.me/joinchat/FxWKlEkxMmCdR0a0mfP1cQ " ,
-    " twitter " : "  https://twitter.com/mundovirtual_3d " ,
+    " twitter " : "   https://twitter.com/MundiCoin " ,
     " youtube " : " https://www.youtube.com/channel/UC0-A4F8GmMAi4DkA38cxrNg "
-  }
+                     }
 }
